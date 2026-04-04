@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sasuke44LQ
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sasuke44LQ-181717?style=for-the-badge&logo=github)](https://github.com/Sasuke44LQ)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sasuke44LQ.Sasuke44LQ)](https://github.com/Sasuke44LQ)
-[![Top Languages](https://img.shields.io/github/languages/top/Sasuke44LQ/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ)
+[![Twitter](https://img.shields.io/badge/Twitter-%40sasuke44lq-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sasuke44lq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sasuke44LQ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasuke44lq)
 
 ![Animated Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=650&lines=Java+%7C+C%23+%7C+C%2B%2B+%7C+Web+Development+%7C+Games+%7C+Innovation)
 
@@ -76,16 +76,14 @@ An interactive dashboard showing real-time metrics using APIs, JavaScript, and m
 ### [Game / Simulation](https://github.com/Sasuke44LQ)
 A game and simulation project built with C#, C++, and real-time rendering tools.
 
-## 📈 Contributions
+## � Contact
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sasuke44LQ&theme=radical)
-
-## 📫 Contact
-
-- **Email:** [sasuke44lq@example.com](mailto:sasuke44lq@example.com)
-- **LinkedIn:** [linkedin.com/in/sasuke44lq](https://linkedin.com/in/sasuke44lq)
-- **Twitter:** [@sasuke44lq](https://twitter.com/sasuke44lq)
-- **Website:** [sasuke44lq.dev](https://sasuke44lq.dev)
+<div align="center">
+  <a href="mailto:sasuke44lq@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/sasuke44lq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/sasuke44lq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://sasuke44lq.dev"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+</div>
 
 > I am available for web development, game projects, and high-performance backend software. Let's connect and build something great! 🚀
 
