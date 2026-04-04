@@ -4,7 +4,7 @@
 [![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Sasuke44LQ.Sasuke44LQ)](https://github.com/Sasuke44LQ)
 [![Lenguajes](https://img.shields.io/github/languages/top/Sasuke44LQ/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ)
 
-![Banner animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=650&lines=Java+%7C+C%23+%7C+C%2B%2B+%7C+Desarrollo+Web+%7C+Videojuegos%C3%B3n)
+![Banner animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3800&pause=1200&color=86E1FC&background=00000000&width=750&lines=Java+%7C+C%23+%7C+C%2B%2B+%7C+Desarrollo+Web+%7C+Videojuegos)
 
 ## 🚀 Sobre mí
 
@@ -20,7 +20,7 @@ Soy un desarrollador que crea aplicaciones web atractivas, backends robustos y e
 
 ![Animación de habilidades](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=650&lines=Java+%7C+C%23+%7C+C%2B%2B+%7C+Videojuegos+%7C+Web+%7C+Backend)
 
-## 🛠️ Tech Stack
+
 
 ### Lenguajes de Programación
 ![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=java&logoColor=white)
