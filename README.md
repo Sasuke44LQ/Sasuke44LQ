@@ -4,7 +4,7 @@
 [![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Sasuke44LQ.Sasuke44LQ)](https://github.com/Sasuke44LQ)
 [![Lenguajes](https://img.shields.io/github/languages/top/Sasuke44LQ/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ)
 
-![Banner animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=650&lines=Java+%7C+C%23+%7C+C%2B%2B+%7C+Desarrollo+Web+%7C+Videojuegos+%7C+Innovaci%C3%B3n)
+![Banner animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=650&lines=Java+%7C+C%23+%7C+C%2B%2B+%7C+Desarrollo+Web+%7C+Videojuegos%C3%B3n)
 
 ## 🚀 Sobre mí
 
@@ -46,8 +46,13 @@ Soy un desarrollador que crea aplicaciones web atractivas, backends robustos y e
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sasuke44LQ&show_icons=true&theme=radical&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasuke44LQ&layout=compact&theme=radical)
+<div align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sasuke44LQ&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&border_radius=20" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasuke44LQ&layout=compact&theme=tokyonight&hide_title=true&border_radius=20" />
+</div>
+
+### 📌 Lenguaje más usado
+Actualmente, mi lenguaje más utilizado en GitHub es **Java**, con un enfoque fuerte en desarrollo web, backend y proyectos de videojuegos.
 
 ## 🌟 Proyectos Destacados
 
