@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sasuke44LQ
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sasuke44LQ-181717?style=for-the-badge&logo=github)](https://github.com/Sasuke44LQ)
-[![Twitter](https://img.shields.io/badge/Twitter-%40sasuke44lq-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sasuke44lq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sasuke44LQ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasuke44lq)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sasuke44LQ.Sasuke44LQ)](https://github.com/Sasuke44LQ)
+[![Top Languages](https://img.shields.io/github/languages/top/Sasuke44LQ/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ)
 
 ![Animated Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=650&lines=Java+%7C+C%23+%7C+C%2B%2B+%7C+Web+Development+%7C+Games+%7C+Innovation)
 
