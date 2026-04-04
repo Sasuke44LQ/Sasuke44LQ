@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-I'm a developer building engaging web applications, robust backend systems, and interactive experiences. I work with Java, C#, and C++, and I have delivered projects related to game development and real-time simulations.
+I'm a developer building engaging web applications, robust backend systems, and interactive experiences. I work with Java, C#, and C++, and I have completed projects related to game development and real-time simulations.
 
 ### 🌟 What I do
 - 💻 Full-stack web development with Java, Spring Boot, React, and REST APIs
 - 🕹️ Game development and interactive experiences using C# and C++
-- 🌐 Modern UI design with mobile-friendly user experiences
+- 🌐 Modern UI design and responsive user experiences
 - 🚀 Scalable backend engineering, microservices, and automation
 
 ## ✨ Highlights
@@ -60,7 +60,7 @@ My most used language on GitHub is currently **Java**, with a strong focus on we
 A web platform for managing courses, students, and content using Java, Spring Boot, and React.
 
 ### [Performance Dashboard](https://github.com/Sasuke44LQ)
-An interactive dashboard showing real-time metrics with APIs, JavaScript, and modern visualizations.
+An interactive dashboard showing real-time metrics using APIs, JavaScript, and modern visualizations.
 
 ### [Game / Simulation](https://github.com/Sasuke44LQ)
 A game and simulation project built with C#, C++, and real-time rendering tools.
