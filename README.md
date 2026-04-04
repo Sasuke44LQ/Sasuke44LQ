@@ -46,9 +46,22 @@ I'm a developer building engaging web applications, robust backend systems, and 
 
 ## 📊 GitHub Stats
 
+A quick overview of my GitHub activity, most used languages, and recent achievements.
+
 <div align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sasuke44LQ&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&border_radius=20" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasuke44LQ&layout=compact&theme=tokyonight&hide_title=true&border_radius=20" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sasuke44LQ&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=Sasuke44LQ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 ### 📌 Most Used Language
