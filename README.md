@@ -46,22 +46,24 @@ I'm a developer building engaging web applications, robust backend systems, and 
 
 ## 📊 GitHub Stats
 
-A quick overview of my GitHub activity, most used languages, and recent achievements.
+Keep this profile up to date with my latest contributions, language trends, and activity.
 
 <div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sasuke44LQ&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&border_radius=20" />
+  <img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasuke44LQ&theme=tokyonight" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasuke44LQ&layout=compact&theme=tokyonight&hide_title=true&border_radius=20" />
+<div align="center">
+  <img alt="Repository language breakdown" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sasuke44LQ&theme=tokyonight" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sasuke44LQ&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img alt="GitHub contributions graph" src="https://github.com/users/Sasuke44LQ/contributions" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=Sasuke44LQ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+<div align="center" style="margin-top: 15px;">
+  [![Followers](https://img.shields.io/github/followers/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ?tab=followers)
+  [![Stars](https://img.shields.io/github/stars/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ?tab=repositories)
+  [![Repos](https://img.shields.io/github/repo-count/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ?tab=repositories)
 </div>
 
 ### 📌 Most Used Language
