@@ -52,18 +52,14 @@ Keep this profile up to date with my latest contributions, language trends, and 
   <img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasuke44LQ&theme=tokyonight" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img alt="Repository language breakdown" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sasuke44LQ&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img alt="GitHub contributions graph" src="https://github.com/users/Sasuke44LQ/contributions" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  [![Followers](https://img.shields.io/github/followers/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ?tab=followers)
-  [![Stars](https://img.shields.io/github/stars/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ?tab=repositories)
-  [![Repos](https://img.shields.io/github/repo-count/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ?tab=repositories)
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/Sasuke44LQ?tab=followers"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/Sasuke44LQ?label=Followers&style=social" /></a>
+  <a href="https://github.com/Sasuke44LQ"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Sasuke44LQ?style=social" /></a>
+  <a href="https://github.com/Sasuke44LQ?tab=repositories"><img alt="Repositories" src="https://badgen.net/github/repos/Sasuke44LQ" /></a>
 </div>
 
 ### 📌 Most Used Language
