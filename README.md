@@ -4,35 +4,45 @@
 [![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Sasuke44LQ.Sasuke44LQ)](https://github.com/Sasuke44LQ)
 [![Lenguajes](https://img.shields.io/github/languages/top/Sasuke44LQ/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ)
 
+![Banner animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=650&lines=Java+%7C+C%23+%7C+C%2B%2B+%7C+Desarrollo+Web+%7C+Videojuegos+%7C+Innovaci%C3%B3n)
+
 ## 🚀 Sobre mí
 
-Soy un desarrollador enfocado en crear soluciones limpias y eficientes, con especial interés en aplicaciones web y automatización. Me gusta combinar buenas prácticas de ingeniería con creatividad para resolver problemas y entregar productos útiles.
+Soy un desarrollador que crea aplicaciones web atractivas, backends robustos y experiencias interactivas. Trabajo con Java, C#, C++ y también he realizado proyectos relacionados con el desarrollo de videojuegos y simulaciones en tiempo real.
 
 ### 🌟 Lo que hago
-- 💻 Desarrollo de aplicaciones web modernas
-- 🌐 Diseño de APIs y microservicios
-- 📊 Automatización de procesos y análisis de datos
-- 🧠 Aprendizaje continuo de nuevas tecnologías
+- 💻 Desarrollo web completo con Java, Spring Boot, React y APIs REST
+- 🕹️ Proyectos de videojuegos y experiencias interactivas usando C# y C++
+- 🌐 Diseño de interfaces modernas y experiencia de usuario responsive
+- 🚀 Construcción de backend escalable, microservicios y automatización
 
-## 🛠️ Tecnologías y Herramientas
+## ✨ Destacados
+
+![Animación de habilidades](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=650&lines=Java+%7C+C%23+%7C+C%2B%2B+%7C+Videojuegos+%7C+Web+%7C+Backend)
+
+## 🛠️ Tech Stack
 
 ### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=java&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frameworks y Librerías
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+### Frameworks y Web
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Herramientas y Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 Estadísticas de GitHub
 
@@ -41,14 +51,14 @@ Soy un desarrollador enfocado en crear soluciones limpias y eficientes, con espe
 
 ## 🌟 Proyectos Destacados
 
-### [Sistema de Gestión Académica](https://github.com/Sasuke44LQ)
-Aplicación web para gestionar cursos, estudiantes y calificaciones. Incluye autenticación, panel administrativo y generación de reportes.
+### [Portal de Cursos Web](https://github.com/Sasuke44LQ)
+Plataforma web para administrar cursos, alumnos y contenidos con Java, Spring Boot y React.
 
-### [Dashboard de Monitoreo](https://github.com/Sasuke44LQ)
-Panel interactivo que muestra métricas de rendimiento en tiempo real usando APIs REST y visualizaciones con gráficos.
+### [Dashboard de Rendimiento](https://github.com/Sasuke44LQ)
+Panel interactivo que muestra métricas en tiempo real usando APIs, JavaScript y visualizaciones modernas.
 
-### [Automatización de Tareas](https://github.com/Sasuke44LQ)
-Scripts para automatizar procesos repetitivos, integrando herramientas de línea de comandos y despliegues con Docker.
+### [Juego / Simulación](https://github.com/Sasuke44LQ)
+Proyecto de desarrollo de videojuegos y simulaciones usando C#, C++ y herramientas de renderizado en tiempo real.
 
 ## 📈 Contribuciones
 
@@ -61,7 +71,7 @@ Scripts para automatizar procesos repetitivos, integrando herramientas de línea
 - **Twitter:** [@sasuke44lq](https://twitter.com/sasuke44lq)
 - **Sitio Web:** [sasuke44lq.dev](https://sasuke44lq.dev)
 
-> Estoy abierto a colaborar en proyectos desafiantes y a aprender nuevas herramientas constantemente. ¡Hablemos de tecnología! 🚀
+> Estoy disponible para proyectos de desarrollo web, videojuegos y software backend de alto rendimiento. ¡Hablemos y construyamos algo grande! 🚀
 
 ---
 
