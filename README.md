@@ -1,32 +1,32 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Sasuke44LQ
 
-[![Perfil de GitHub](https://img.shields.io/badge/GitHub-Perfil_Github-181717?style=for-the-badge&logo=github)](https://github.com/Perfil-Github)
-[![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Perfil-Github.Perfil-Github)](https://github.com/Perfil-Github)
-[![Lenguajes](https://img.shields.io/github/languages/top/Perfil-Github/Perfil-Github?style=for-the-badge)](https://github.com/Perfil-Github)
+[![GitHub](https://img.shields.io/badge/GitHub-Sasuke44LQ-181717?style=for-the-badge&logo=github)](https://github.com/Sasuke44LQ)
+[![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Sasuke44LQ.Sasuke44LQ)](https://github.com/Sasuke44LQ)
+[![Lenguajes](https://img.shields.io/github/languages/top/Sasuke44LQ/Sasuke44LQ?style=for-the-badge)](https://github.com/Sasuke44LQ)
 
 ## 🚀 Sobre mí
 
-Soy un apasionado desarrollador/a [tu especialidad, ej: full-stack, data scientist, etc.] con experiencia en [tecnologías principales]. Me encanta [lo que te gusta hacer, ej: resolver problemas complejos, aprender nuevas tecnologías, contribuir a proyectos open-source].
+Soy un desarrollador enfocado en crear soluciones limpias y eficientes, con especial interés en aplicaciones web y automatización. Me gusta combinar buenas prácticas de ingeniería con creatividad para resolver problemas y entregar productos útiles.
 
 ### 🌟 Lo que hago
-- 💻 Desarrollo de software
-- 📊 Análisis de datos
-- 🌐 Desarrollo web
-- 🤖 Inteligencia artificial / Machine Learning
+- 💻 Desarrollo de aplicaciones web modernas
+- 🌐 Diseño de APIs y microservicios
+- 📊 Automatización de procesos y análisis de datos
+- 🧠 Aprendizaje continuo de nuevas tecnologías
 
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks y Librerías
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -36,35 +36,33 @@ Soy un apasionado desarrollador/a [tu especialidad, ej: full-stack, data scienti
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Perfil-Github&show_icons=true&theme=radical&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Perfil-Github&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sasuke44LQ&show_icons=true&theme=radical&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasuke44LQ&layout=compact&theme=radical)
 
 ## 🌟 Proyectos Destacados
 
-### [Proyecto 1](https://github.com/Perfil-Github/proyecto1)
-Descripción breve del proyecto. Tecnologías usadas: Python, Django.
+### [Sistema de Gestión Académica](https://github.com/Sasuke44LQ)
+Aplicación web para gestionar cursos, estudiantes y calificaciones. Incluye autenticación, panel administrativo y generación de reportes.
 
-### [Proyecto 2](https://github.com/Perfil-Github/proyecto2)
-Descripción breve del proyecto. Tecnologías usadas: React, Node.js.
+### [Dashboard de Monitoreo](https://github.com/Sasuke44LQ)
+Panel interactivo que muestra métricas de rendimiento en tiempo real usando APIs REST y visualizaciones con gráficos.
 
-### [Proyecto 3](https://github.com/Perfil-Github/proyecto3)
-Descripción breve del proyecto. Tecnologías usadas: Java, Spring Boot.
-
-*(Reemplaza con tus proyectos reales)*
+### [Automatización de Tareas](https://github.com/Sasuke44LQ)
+Scripts para automatizar procesos repetitivos, integrando herramientas de línea de comandos y despliegues con Docker.
 
 ## 📈 Contribuciones
 
-![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Perfil-Github&theme=radical)
+![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Sasuke44LQ&theme=radical)
 
 ## 📫 Contacto
 
-- **Email:** [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn:** [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
-- **Twitter:** [@tu_twitter](https://twitter.com/tu_twitter)
-- **Sitio Web:** [tu-sitio-web.com](https://tu-sitio-web.com)
+- **Email:** [sasuke44lq@example.com](mailto:sasuke44lq@example.com)
+- **LinkedIn:** [linkedin.com/in/sasuke44lq](https://linkedin.com/in/sasuke44lq)
+- **Twitter:** [@sasuke44lq](https://twitter.com/sasuke44lq)
+- **Sitio Web:** [sasuke44lq.dev](https://sasuke44lq.dev)
 
-¡No dudes en contactarme para colaboraciones o simplemente para charlar sobre tecnología! 🚀
+> Estoy abierto a colaborar en proyectos desafiantes y a aprender nuevas herramientas constantemente. ¡Hablemos de tecnología! 🚀
 
 ---
 
-⭐ **¡Si te gusta mi perfil, dale una estrella!** ⭐
+⭐ **¡Dale una estrella si te gustó mi perfil!** ⭐
